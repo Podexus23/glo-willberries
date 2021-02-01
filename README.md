@@ -1,5 +1,5 @@
 # Учебный проект glo-willberries
-Выполнил проект Антон Серовский
+https://podexus23.github.io/glo-willberries/
 ## В проекте использовались языки:
 - HTML
 - CSS
